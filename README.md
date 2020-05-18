@@ -1,0 +1,4 @@
+# Dipy Image Alignent Tutorial
+This repository contains a tutorial in the form of a Jupyter notebook with step-by-step instructions (beginning with an installation of Python with Conda) on how to register images using affine transformations with dipy along with the accompanying data. While the images used in this tutorial are experimentally acquired multimodal atomic force microscopy images, this methodology is broadly generalizable. Comments throughout the notebook provide information on what's happening at each step of the registeration. 
+
+If you find this tutorial helpful, please consider citing [this paper](https://doi.org/10.1021/acs.jpclett.8b01003). If you use Dipy for image registration, please cite according to the guidelines set by the developers of the package [here](https://dipy.org/documentation/1.1.1./cite/#a-note-on-citing-our-work). Questions regarding the tutorial can be directed to Jessica Kong at kongjy at uw dot edu. 
